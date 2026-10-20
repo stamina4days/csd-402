@@ -1,0 +1,25 @@
+Company Division Information
+============================
+
+International Division
+Division Name: European Operations
+Account Number: 001001
+Country: Germany
+Language: German
+
+International Division
+Division Name: Pacific Operations
+Account Number: 001002
+Country: Japan
+Language: Japanese
+
+Domestic Division
+Division Name: Central Operations
+Account Number: 002001
+State: Nebraska
+
+Domestic Division
+Division Name: Western Operations
+Account Number: 002002
+State: California
+
