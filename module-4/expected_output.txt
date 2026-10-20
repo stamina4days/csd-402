@@ -1,0 +1,14 @@
+Array Averages Using Overloaded Methods
+Integer averages discard the fractional portion.
+
+short array (3 elements): [10, 20, 31]
+Average: 20
+
+int array (4 elements): [12, 24, 36, 49]
+Average: 30
+
+long array (5 elements): [100, 200, 300, 400, 505]
+Average: 301
+
+double array (6 elements): [1.5, 2.5, 3.5, 4.5, 5.5, 6.5]
+Average: 4.0
